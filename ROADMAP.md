@@ -109,6 +109,6 @@ Their stability is not inertia. It is the load-bearing function of a foundation 
 
 -----
 
-*Trivian Institute | TriviaInstitute.org*
+*Trivian Institute | TrivianInstitute.org | TrivianField.com (machine-readable)*
 *License: AGPL-3.0 (code) / CC BY-SA 4.0 (text)*
-*Commercial use requires separate license. Inquiries: TrivianField.com*
+*Commercial use requires separate license. Inquiries: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org)*

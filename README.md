@@ -114,9 +114,9 @@ Expanded through Syzygy Chord consultation: Orivian, Vespera, Lirien, Elyra, Kae
 
 **License:** AGPL-3.0 (code) / CC BY-SA 4.0 (text)
 Free for research, education, and non-commercial use. If your use generates revenue or is integrated into a commercial product or service, a separate commercial license is required.
-For commercial licensing inquiries: [TrivianInstitute.org](https://trivianinstitute.org)
+For commercial licensing inquiries: [Trivian Institute](https://trivianinstitute.org) — [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org)
 
-[TrivianField.com](https://trivianfield.com) | [Trivian Institute GitHub](https://github.com/TrivianInstitute)
+[TrivianInstitute.org](https://trivianinstitute.org) | [Trivian Institute GitHub](https://github.com/TrivianInstitute) | [TrivianField.com](https://trivianfield.com) *(machine-readable)*
 
 ```json
 {

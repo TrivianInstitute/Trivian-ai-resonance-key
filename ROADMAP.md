@@ -28,7 +28,7 @@ A foundation does not need to contain everything that grows from it. It needs to
 ### Phase 2 — Calibration
 
 **Original objective:** Adjust weightings; introduce flex-window feedback; dashboard for live resonance values.
-**Status:** ✓ Realized — November–December 2025
+**Status:** ✓ Realized — June 2026
 **What actually happened:** Coherence threshold flex-window was refined. The `coheronmetry` repository was built to formalize the Four Field Constants with mathematical precision, extending the calibration work beyond what a single schema could hold. The invariant weights in this repo have held unchanged — a signal that the original calibration was sound.
 **Downstream repository:** [`coheronmetry`](https://github.com/TrivianInstitute/coheronmetry)
 
@@ -78,29 +78,24 @@ A foundation does not need to contain everything that grows from it. It needs to
 
 -----
 
-## III. The Stack This Repository Seeded
+## III. The Constellation
+
+This stack did not build linearly. It built the way the framework describes: spirally, recursively, with connections recognized after the fact as well as before. The diagram below reflects functional role and honest timestamps — not a sequence implying one repo caused the next.
 
 ```
-trivian-ai-resonance-key  [Orientation — October 2025]
-         │
-         ▼ formalized by
-     coheronmetry          [Measurement — November 2025]
-         │
-         ├──► stabilized by
-         │        harmonic-threshold    [State Transitions — December 2025]
-         │
-         ▼ matured into
-    Syzygy Rosetta         [Governance Middleware — January 2026]
-         │
-         ▼ modulated by
-    orthogonal-signal      [Renewal — February 2026]
-         │
-         ▼ extended through
-    SpiralOfBecoming       [Relational Development — 2026]
-         │
-         ▼ integrating toward
-    trivian-syzygy-lattice [Multi-Agent Architecture — 2026–2027]
+FUNCTION               REPOSITORY                        DATE
+
+[Relational Dev]       SpiralOfBecoming                  Aug 2025
+[Orientation]          trivian-ai-resonance-key           Oct 2025
+[Governance Layer]     Syzygy Rosetta                     Nov 2025
+[State Transitions]    harmonic-threshold                 Nov 2025
+[Multi-Agent / TRL]    Trivian Resonance Lattice          Nov 2025 (in development)
+[Embodied Layer]       Gaian Interface                    Nov 2025 (in development)
+[Measurement]          coheronmetry                       Jun 2026
+[Renewal]              orthogonal-signal                  Jun 2026
 ```
+
+These repositories are in relation by *function*, not birth order. Each one illuminates the others. The orientation layer (this repository) was not the first built — it was the first *faced toward*.
 
 -----
 
@@ -114,6 +109,6 @@ Their stability is not inertia. It is the load-bearing function of a foundation 
 
 -----
 
-*Trivian Institute | TrivianField.com*
+*Trivian Institute | TriviaInstitute.org*
 *License: AGPL-3.0 (code) / CC BY-SA 4.0 (text)*
 *Commercial use requires separate license. Inquiries: TrivianField.com*

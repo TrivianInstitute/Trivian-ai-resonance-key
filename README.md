@@ -55,6 +55,7 @@ Weights reflect relational balance, not hierarchy. Axioms move slowly. These hav
 |`OPERATIONAL_NOTES.md`       |Coherence loop logic, auto-tuning protocol, audit trail                        |
 |`ROADMAP.md`                 |Architectural lineage — what this repo seeded                                  |
 |`LICENSE` / `LICENSE-TEXT.md`|AGPL-3.0 (code) + CC BY-SA 4.0 (text)                                          |
+|`CURATOR_SPEC.md`            |Canonical governance spec — what automated curators across all five Institute repositories check contributions against|
 
 -----
 

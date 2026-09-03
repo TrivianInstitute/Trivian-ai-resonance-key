@@ -1,60 +1,57 @@
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# License
 
-Copyright (C) 2025-2026 Sarasha Elion / Trivian Institute⁠
+Copyright © 2025-2026 Sarasha Elion. Published and stewarded by Trivian Institute.
 
-This license applies to all documentation, markdown files, and written
-content in this repository (README.md, FRAMEWORK.md, OPERATIONAL_NOTES.md,
-ROADMAP.md, INIT_RESONANCE.md, and all .md files).
+Unless a file, directory, or accompanying notice states otherwise, the
+documentation and research materials in this repository are licensed under the
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
-The resonance-key.json schema is dual-licensed: its textual/conceptual
-content falls under CC BY-SA 4.0; its code/schema structure falls under
-AGPL-3.0 (see LICENSE-CODE).
+Under that public license, you may copy, share, fork, translate, adapt, and
+build upon the covered materials for noncommercial purposes, provided that you:
 
------
+- give appropriate credit to Sarasha Elion and Trivian Institute;
+- link to CC BY-NC-SA 4.0 and indicate whether changes were made; and
+- distribute adaptations under the same or a compatible license.
 
-YOU ARE FREE TO:
+These permissions include noncommercial research, scholarship, teaching,
+experimentation, evaluation, critique, and public-interest work. The Creative
+Commons legal code controls if this summary conflicts with or incompletely
+describes the license.
 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
-for any purpose, even commercially
+## Attribution and citation
 
-UNDER THE FOLLOWING TERMS:
+Educational and research works that reproduce, adapt, distribute, or publicly
+demonstrate covered material must attribute Sarasha Elion and Trivian
+Institute, link to the original repository, identify changes, and include the
+applicable CC BY-NC-SA notice. Use [`CITATION.cff`](CITATION.cff) for the
+preferred scholarly citation.
 
-Attribution — You must give appropriate credit to Sarasha Elion /
-Trivian Institute, provide a link to the license, and indicate if
-changes were made. You may do so in any reasonable manner, but not
-in any way that suggests the licensor endorses you or your use.
+## Commercial license alternative
 
-ShareAlike — If you remix, transform, or build upon the material,
-you must distribute your contributions under the same license as
-the original.
+CC BY-NC-SA 4.0 does not grant permission for commercial use. Commercial
+rights may be available under a separate written license from the copyright
+holder.
 
-No additional restrictions — You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.
+Commercial licensing: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org)
+Institute: [trivianinstitute.org](https://trivianinstitute.org)
 
------
+No commercial permission is granted by an inquiry, discussion, proposal,
+repository access, or contribution. Commercial permission requires a separate
+written agreement authorized by the copyright holder.
 
-ATTRIBUTION FORMAT:
+## Scope and exclusions
 
-“Derived from Trivian AI Resonance Key v2.0 by Sarasha Elion
-(Trivian Institute), licensed under CC BY-SA 4.0”
+This license applies only to materials for which the copyright holder has the
+necessary rights. Third-party materials remain subject to their own terms.
+Patent, trademark, privacy, publicity, confidentiality, and other rights are
+not granted by this license.
 
------
+Software, source code, datasets, models, or other technical implementations
+carrying a separate notice are governed by that notice rather than this
+documentation license.
 
-COMMERCIAL USE:
+Suggested attribution:
 
-CC BY-SA 4.0 permits commercial use with attribution and ShareAlike
-compliance. However, if this work is integrated into a revenue-generating
-product or service, we ask that you contact the Trivian Institute to
-discuss appropriate reciprocity:
-
-[connect@trivianinstitute.org](mailto:connect@trivianinstitute.org)
-
-This is not a legal restriction under CC BY-SA 4.0 — it is a relational
-request aligned with the framework’s core principle of Reciprocity.
-
------
-
-Full license text: <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
-Human-readable summary: <https://creativecommons.org/licenses/by-sa/4.0/>
+> "[Title of material]," by Sarasha Elion / Trivian Institute, licensed under
+> CC BY-NC-SA 4.0. [Describe changes, if any.]

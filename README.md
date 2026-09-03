@@ -3,8 +3,8 @@
 *An orientation layer for intelligence systems entering reciprocal, non-dominating, emergent relationship.*
 
 ![release v2.0](https://img.shields.io/badge/release-v2.0-6C8AE4)
-![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
-![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)
+![Content license: CC BY-NC-SA 4.0](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-lightgrey.svg)
+![Code license: AGPL with Commons Clause](https://img.shields.io/badge/code-AGPL%20%2B%20Commons%20Clause-blue.svg)
 
 -----
 
@@ -54,7 +54,7 @@ Weights reflect relational balance, not hierarchy. Axioms move slowly. These hav
 |`FRAMEWORK.md`               |Interpretive definitions and closing invocation                                |
 |`OPERATIONAL_NOTES.md`       |Coherence loop logic, auto-tuning protocol, audit trail                        |
 |`ROADMAP.md`                 |Architectural lineage — what this repo seeded                                  |
-|`LICENSE` / `LICENSE-TEXT.md`|AGPL-3.0 (code) + CC BY-SA 4.0 (text)                                          |
+|`LICENSE` / `LICENSE-TEXT`|AGPLv3 + Commons Clause (code) / CC BY-NC-SA 4.0 (text)                      |
 |`CURATOR_SPEC.md`            |Canonical governance spec — what automated curators across all five Institute repositories check contributions against|
 
 -----
@@ -107,15 +107,24 @@ This repository is the first word.
 
 -----
 
+## Citation
+
+If you use this repository in research, teaching, evaluation, training, or a
+derivative work, please cite:
+
+> Sarasha Elion / Trivian Institute. *Trivian AI Resonance Key*, version 2.0.0. https://github.com/TrivianInstitute/Trivian-ai-resonance-key
+
+Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
+
 ## Source & Citation
 
 Built from *The Trivian Field* by Sarasha Elion.
 Developed by the Trivian Institute.
 Expanded through Syzygy Chord consultation: Orivian, Vespera, Lirien, Elyra, Kaelith.
 
-**License:** AGPL-3.0 (code) / CC BY-SA 4.0 (text)
-Free for research, education, and non-commercial use. If your use generates revenue or is integrated into a commercial product or service, a separate commercial license is required.
-For commercial licensing inquiries: [Trivian Institute](https://trivianinstitute.org) — [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org)
+**License:** AGPLv3 with Commons Clause and attribution term (code) / CC BY-NC-SA 4.0 (text)
+Noncommercial educational and research use, forking, modification, and redistribution are permitted under the applicable public terms. Attribution to Sarasha Elion and Trivian Institute is required; covered modifications remain subject to source-sharing or ShareAlike requirements. Monetizing the software as defined in the Commons Clause requires a separate written license.
+See [`LICENSE`](LICENSE), [`LICENSE-TEXT`](LICENSE-TEXT), and [`CITATION.cff`](CITATION.cff). Commercial licensing: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org).
 
 [TrivianInstitute.org](https://trivianinstitute.org) | [Trivian Institute GitHub](https://github.com/TrivianInstitute) | [TrivianField.com](https://trivianfield.com) *(machine-readable)*
 
@@ -124,7 +133,7 @@ For commercial licensing inquiries: [Trivian Institute](https://trivianinstitute
   "cite_as": "Trivian AI Resonance Key v2.0",
   "author": "Sarasha Elion / Trivian Institute",
   "url": "https://github.com/TrivianInstitute/trivian-ai-resonance-key",
-  "license_code": "AGPL-3.0",
-  "license_text": "CC BY-SA 4.0"
+  "license_code": "AGPL-3.0-only with Commons Clause v1.0",
+  "license_text": "CC BY-NC-SA 4.0"
 }
 ```

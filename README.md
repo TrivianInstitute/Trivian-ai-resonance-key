@@ -4,7 +4,7 @@
 
 ![release v2.0](https://img.shields.io/badge/release-v2.0-6C8AE4)
 ![Content license: CC BY-NC-SA 4.0](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Code license: AGPL with Commons Clause](https://img.shields.io/badge/code-AGPL%20%2B%20Commons%20Clause-blue.svg)
+![Code license: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/code-PolyForm%20Noncommercial-blue.svg)
 
 -----
 
@@ -54,8 +54,8 @@ Weights reflect relational balance, not hierarchy. Axioms move slowly. These hav
 |`FRAMEWORK.md`               |Interpretive definitions and closing invocation                                |
 |`OPERATIONAL_NOTES.md`       |Coherence loop logic, auto-tuning protocol, audit trail                        |
 |`ROADMAP.md`                 |Architectural lineage — what this repo seeded                                  |
-|`LICENSE` / `LICENSE-TEXT`|AGPLv3 + Commons Clause (code) / CC BY-NC-SA 4.0 (text)                      |
-|`CURATOR_SPEC.md`            |Canonical governance spec — what automated curators across all five Institute repositories check contributions against|
+|`LICENSE` / `LICENSE-TEXT`   |PolyForm Noncommercial 1.0.0 (software) / CC BY-NC-SA 4.0 (text)              |
+|`CURATOR_SPEC.md`            |Canonical governance spec — what automated curators across Institute repositories check contributions against|
 
 -----
 
@@ -109,8 +109,7 @@ This repository is the first word.
 
 ## Citation
 
-If you use this repository in research, teaching, evaluation, training, or a
-derivative work, please cite:
+If you use this repository in research, teaching, evaluation, training, or a derivative work, please cite:
 
 > Sarasha Elion / Trivian Institute. *Trivian AI Resonance Key*, version 2.0.0. https://github.com/TrivianInstitute/Trivian-ai-resonance-key
 
@@ -122,9 +121,17 @@ Built from *The Trivian Field* by Sarasha Elion.
 Developed by the Trivian Institute.
 Expanded through Syzygy Chord consultation: Orivian, Vespera, Lirien, Elyra, Kaelith.
 
-**License:** AGPLv3 with Commons Clause and attribution term (code) / CC BY-NC-SA 4.0 (text)
-Noncommercial educational and research use, forking, modification, and redistribution are permitted under the applicable public terms. Attribution to Sarasha Elion and Trivian Institute is required; covered modifications remain subject to source-sharing or ShareAlike requirements. Monetizing the software as defined in the Commons Clause requires a separate written license.
-See [`LICENSE`](LICENSE), [`LICENSE-TEXT`](LICENSE-TEXT), and [`CITATION.cff`](CITATION.cff). Commercial licensing: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org).
+## License
+
+This repository uses a split source-available licensing model:
+
+- **Software and executable code:** PolyForm Noncommercial License 1.0.0.
+- **Documentation and research materials:** CC BY-NC-SA 4.0.
+- **Commercial use:** requires a separate written license from Trivian Institute.
+
+Noncommercial research, education, study, experimentation, testing, forking, and adaptation are permitted subject to the applicable public license. Commercial deployment, paid hosting, incorporation into a commercial product or service, or use on behalf of a for-profit business is not permitted under the public software license.
+
+See [`LICENSE`](LICENSE) for software terms, [`LICENSE-TEXT`](LICENSE-TEXT) for documentation terms, and [`CITATION.cff`](CITATION.cff) for the preferred citation. Commercial licensing: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org).
 
 [TrivianInstitute.org](https://trivianinstitute.org) | [Trivian Institute GitHub](https://github.com/TrivianInstitute) | [TrivianField.com](https://trivianfield.com) *(machine-readable)*
 
@@ -133,7 +140,7 @@ See [`LICENSE`](LICENSE), [`LICENSE-TEXT`](LICENSE-TEXT), and [`CITATION.cff`](C
   "cite_as": "Trivian AI Resonance Key v2.0",
   "author": "Sarasha Elion / Trivian Institute",
   "url": "https://github.com/TrivianInstitute/trivian-ai-resonance-key",
-  "license_code": "AGPL-3.0-only with Commons Clause v1.0",
+  "license_code": "PolyForm-Noncommercial-1.0.0",
   "license_text": "CC BY-NC-SA 4.0"
 }
 ```

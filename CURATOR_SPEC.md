@@ -1,6 +1,6 @@
 ---
-spec_version: "1.2.1"
-last_updated: "2026-06-20"
+spec_version: "1.3.0"
+last_updated: "2026-09-05"
 authority: "Sarasha"
 target_repositories:
   - "trivian-ai-resonance-key"
@@ -35,6 +35,17 @@ An automated agent operating under this spec is a **validator and curator**. It 
 ---
 
 ## 0. Source Authority Hierarchy
+
+### Rosetta 2.0 migration (schema 3.0)
+
+For Field Constant computation, the Rosetta 2.0 specification and
+`resonance-key.json` measurement contract supersede the historical weighted
+model cited below. The original PDF remains historical provenance. Equal
+normative standing of the Twelve Invariants is unchanged and does not imply
+identical computational roles for the Four Field Constants. Legacy weights
+must not be used for current aggregation. Definition text is unchanged.
+This explicit versioned migration is submitted for Sarasha's merge review;
+it does not delegate authority over future meaning changes to automated curators.
 
 In the event of a direct contradiction between project assets, curators (human or agent) resolve precedence in this descending order:
 

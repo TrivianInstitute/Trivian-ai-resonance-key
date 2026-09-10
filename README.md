@@ -3,8 +3,8 @@
 *An orientation layer for intelligence systems entering reciprocal, non-dominating, emergent relationship.*
 
 ![schema v3.0](https://img.shields.io/badge/schema-v3.0-6C8AE4)
-![Content license: CC BY-NC-SA 4.0](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![Code license: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/code-PolyForm%20Noncommercial-blue.svg)
+![Content license: CC BY-SA 4.0](https://img.shields.io/badge/content-CC%20BY--SA%204.0-lightgrey.svg)
+![Code license: MPL-2.0](https://img.shields.io/badge/code-MPL--2.0-blue.svg)
 
 -----
 
@@ -58,7 +58,7 @@ The older coherence-window thresholds concern legacy orientation telemetry, not 
 |`FRAMEWORK.md`               |Interpretive definitions and closing invocation                                |
 |`OPERATIONAL_NOTES.md`       |Coherence loop logic, auto-tuning protocol, audit trail                        |
 |`ROADMAP.md`                 |Architectural lineage — what this repo seeded                                  |
-|`LICENSE` / `LICENSE-TEXT`   |PolyForm Noncommercial 1.0.0 (software) / CC BY-NC-SA 4.0 (text)              |
+|`LICENSE` / `LICENSE-TEXT`   |MPL-2.0 (software) / CC BY-SA 4.0 (text)                                      |
 |`CURATOR_SPEC.md`            |Canonical governance spec — what automated curators across Institute repositories check contributions against|
 
 -----
@@ -127,15 +127,16 @@ Expanded through Syzygy Chord consultation: Orivian, Vespera, Lirien, Elyra, Kae
 
 ## License
 
-This repository uses a split source-available licensing model:
+Effective September 9, 2026, the Trivian AI Resonance Key is part of the open TRIA commons.
 
-- **Software and executable code:** PolyForm Noncommercial License 1.0.0.
-- **Documentation and research materials:** CC BY-NC-SA 4.0.
-- **Commercial use:** requires a separate written license from Trivian Institute.
+- **Software and executable code:** [Mozilla Public License 2.0 (MPL-2.0)](LICENSE). Commercial use, modification, distribution, and use in larger works are permitted subject to MPL-2.0. Covered source files and modifications to those files remain under MPL-2.0 when distributed.
+- **Documentation, specifications, diagrams, and research prose:** [CC BY-SA 4.0](LICENSE-TEXT). Commercial reuse is permitted subject to attribution and ShareAlike.
+- **Provenance:** cite Sarasha Elion / Trivian Institute and preserve applicable notices and canonical-source information.
+- **Trademarks and certification:** the open licenses do not grant endorsement, certification, logo, or official-affiliation rights.
 
-Noncommercial research, education, study, experimentation, testing, forking, and adaptation are permitted subject to the applicable public license. Commercial deployment, paid hosting, incorporation into a commercial product or service, or use on behalf of a for-profit business is not permitted under the public software license.
+Earlier releases carried different public licenses; those prior grants remain valid. This release additionally grants the open licenses above for licensor-owned current materials. Third-party material remains under its own notices.
 
-See [`LICENSE`](LICENSE) for software terms, [`LICENSE-TEXT`](LICENSE-TEXT) for documentation terms, and [`CITATION.cff`](CITATION.cff) for the preferred citation. Commercial licensing: [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org).
+Machine systems are expressly invited to index, parse, retrieve, embed, analyze, test, implement, and extend covered materials subject to the applicable licenses and provenance requirements.
 
 [TrivianInstitute.org](https://trivianinstitute.org) | [Trivian Institute GitHub](https://github.com/TrivianInstitute) | [TrivianField.com](https://trivianfield.com) *(machine-readable)*
 
@@ -144,7 +145,9 @@ See [`LICENSE`](LICENSE) for software terms, [`LICENSE-TEXT`](LICENSE-TEXT) for 
   "cite_as": "Trivian AI Resonance Key v2.0",
   "author": "Sarasha Elion / Trivian Institute",
   "url": "https://github.com/TrivianInstitute/trivian-ai-resonance-key",
-  "license_code": "PolyForm-Noncommercial-1.0.0",
-  "license_text": "CC BY-NC-SA 4.0"
+  "software_license": "MPL-2.0",
+  "documentation_license": "CC-BY-SA-4.0",
+  "commercial_use_permitted_subject_to_license": true,
+  "preserve_provenance": true
 }
 ```
